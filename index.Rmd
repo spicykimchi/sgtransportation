@@ -46,11 +46,13 @@ Analyse the transportation system in singapore for the past 10 years.
 2. Show Data in table
 + Use sqldf to select data according to the relevant input passed to the shiny server
 + Use renderTable
-  
+
+
 ---
 
-##Screenshot
+## Screenshot
 
 ![200px](Output1.png) 
+
 
 ---
